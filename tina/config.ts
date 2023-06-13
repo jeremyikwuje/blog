@@ -9,13 +9,13 @@ export default defineConfig({
   token: null, // Get this from tina.io
 
   build: {
-    outputFolder: "admin",
+    outputFolder: "manage",
     publicFolder: "static",
   },
   media: {
     tina: {
-      mediaRoot: "",
-      publicFolder: "static",
+      mediaRoot: "static/images/uploads",
+      publicFolder: "/images/uploads",
     },
   },
   schema: {

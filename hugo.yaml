@@ -5,10 +5,10 @@ theme: 'ghost'
 copyright: 'Jeremy Ikwuje'
 
 params:
-    mainSections: ['post']
+    mainSections: ['posts']
     intro: true
     headline: 'Jeremy Ikwuje'
-    description: 'Data Engineer. I write tutorials for data engineers, analyst and related roles.'
+    description: 'Data Engineer. I write tutorials for data engineers.'
     github: 'https://github.com/jeremyikwuje'
     twitter: 'https://twitter.com/jeremyikwuje'
     email: 'hi@jeremyikwuje.link'
@@ -33,7 +33,7 @@ markup:
 
 author:
     name: 'Jeremy Ikwuje'
-    profile: 'Data Engineer. I write tutorials for data engineers, analyst and related roles.'
+    profile: 'Data Engineer. I write tutorials for data engineers.'
 
 taxonomies:
     tag: 'python'

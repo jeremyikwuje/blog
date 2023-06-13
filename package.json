@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/jeremyikwuje/blog/issues"
   },
-  "homepage": "https://github.com/jeremyikwuje/blog#readme"
+  "homepage": "https://github.com/jeremyikwuje/blog#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.17",
+    "tinacms": "^1.5.8"
+  }
 }

@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "npm run tinacms build && hugo --gc --minify"
+command = "yarn tinacms build && hugo --gc --minify"
 
 [context.production.environment]
 HUGO_VERSION = "0.113.0"

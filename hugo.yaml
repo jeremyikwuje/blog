@@ -1,0 +1,39 @@
+baseURL: 'https://jeremyikwuje.link/'
+languageCode: 'en-us'
+title: 'Jeremy Ikwuje'
+theme: 'ghostwriter'
+copyright: 'Jeremy Ikwuje'
+
+params:
+    mainSections: ['post']
+    intro: true
+    headline: 'Jeremy Ikwuje'
+    description: 'Data Engineer. I write tutorials for data engineers, analyst and related roles.'
+    github: 'https://github.com/jeremyikwuje'
+    twitter: 'https://twitter.com/jeremyikwuje'
+    email: 'hi@jeremyikwuje.link'
+    opengraph: true
+    shareTwitter: true
+    dataFormat: "Mon, Jan 2, 2006"
+    lastChange: '2023'
+
+Permalinks:
+    post: '/:filename/'
+
+markup:
+    highlight:
+        codeFences: true
+        guessSyntax: false
+        h1_Lines: ""
+        lineNoStart: 1
+        lineNos: false
+        lineNumbersInTable: true
+        noClasses: true
+        tabWidth: 2
+
+author:
+    name: 'Jeremy Ikwuje'
+    profile: 'Data Engineer. I write tutorials for data engineers, analyst and related roles.'
+
+taxonomies:
+    tag: 'python'

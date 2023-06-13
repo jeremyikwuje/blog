@@ -1,0 +1,45 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\jeremiah\AppData\Local\npm-cache\_npx\b34d1f235ac7f645\node_modules\yarn\bin\yarn.js add tinacms @tinacms/cli
+
+PATH: 
+  C:\Users\jeremiah\AppData\Local\npm-cache\_npx\b34d1f235ac7f645\node_modules\.bin;C:\source\apps\jeremyikwuje\node_modules\.bin;C:\source\apps\node_modules\.bin;C:\source\node_modules\.bin;C:\node_modules\.bin;C:\Users\jeremiah\AppData\Roaming\npm\node_modules\npm\node_modules\@npmcli\run-script\lib\node-gyp-bin;C:\Users\jeremiah\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\jeremiah\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\sqlite;C:\Users\jeremiah\AppData\Roaming\npm;C:\chromedriver;C:\geckodriver;C:\Python310\Scripts;C:\Python310;C:\Python39\Scripts;C:\Python39;C:\tools\php-8.0.8;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\Git\cmd;C:\ProgramData\ComposerSetup\bin;C:\Program Files\PuTTY;C:\ProgramData\chocolatey\bin;C:\WINDOWS\System32\OpenSSH;C:\Program Files\GitHub CLI;C:\Program Files\nodejs;C:\Program Files\Go\bin;C:\Program Files\clarinet\bin;C:\Program Files\dotnet;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\sqlite;C:\ProgramData\chocolatey\lib\hugo\tools;C:\chromedriver;C:\Users\jeremiah\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\jeremiah\.dotnet\tools;C:\Users\jeremiah\.deno\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.14.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, open 'C:\Users\jeremiah\AppData\Local\Yarn\Cache\v6\npm-@esbuild-win32-x64-0.16.17-c5a1a4bfe1b57f0c3e61b29883525c6da3e5c091-integrity\node_modules\@esbuild\win32-x64\.yarn-metadata.json'
+
+npm manifest: 
+  {
+    "name": "jeremyikwuje",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/jeremyikwuje/blog.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/jeremyikwuje/blog/issues"
+    },
+    "homepage": "https://github.com/jeremyikwuje/blog#readme"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

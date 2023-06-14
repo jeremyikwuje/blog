@@ -18,7 +18,7 @@ params:
     lastChange: '2023'
 
 Permalinks:
-    post: '/:filename/'
+    posts: '/:filename/'
 
 markup:
     highlight:

@@ -18,9 +18,9 @@ If Python is installed, continue with Step 4, no need to start from Step 1.
 
 ## Step 1: Download Python
 
-Open a new browser tab on your computer and navigate to www.python.org.
+Open a new browser tab on your computer and navigate to [www.python.org](https://python.org).
 
-On the Python website click on [Downloads](https://www.python.org/downloads/)\*\*.
+\*\*On the Python website click on [Downloads](https://www.python.org/downloads/)\*\*.
 
 By default, you will see a download button to download Python for your operating system. For instance, if you are on Windows you will see "Download Python for Windows". Follow the instructions on the page and download the latest Python (Python 3) for your operating system.
 
@@ -62,7 +62,8 @@ In the Terminal, **enter the following command:**
 python 
 ```
 
-This will output the Python console.
+> If you are using Git bash as your Terminal, the command is `python -i`.
+> This will output the Python console.
 
 ```
 Python 3.10.5 (tags/v3.10.5:f377153, Jun  6 2022, 16:14:13

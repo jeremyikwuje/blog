@@ -1,7 +1,8 @@
 ---
 title: How to Install Python
-date: '2023-06-13T13:06:51.000Z'
+date: 2023-06-14T03:16:00.842Z
 draft: false
+thumbnail: https://images.unsplash.com/photo-1526379095098-d400fd0bf935?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80
 ---
 
 If you are interested in starting a career in data science or data engineering, one of the tools you will need to be familiar with is Python. Python is one of the most popular computer programming languages chiefly used among data specialists. Outside data, it is popularly used by software developers for building several kinds of applications like websites, mobile app backends, chatbots, automation, and more. Big companies like Google, Instagram, Spotify, and Uber hire professionals that are proficient in Python.
@@ -18,9 +19,9 @@ If Python is installed, continue with Step 4, no need to start from Step 1.
 
 ## Step 1: Download Python
 
-Open a new browser tab on your computer and navigate to [www.python.org](https://python.org).
+Open a new browser tab on your computer and navigate to www.python.org.
 
-\*\*On the Python website click on [Downloads](https://www.python.org/downloads/)\*\*.
+On the Python website click on [Downloads](https://www.python.org/downloads/)\*\*.
 
 By default, you will see a download button to download Python for your operating system. For instance, if you are on Windows you will see "Download Python for Windows". Follow the instructions on the page and download the latest Python (Python 3) for your operating system.
 
@@ -62,8 +63,7 @@ In the Terminal, **enter the following command:**
 python 
 ```
 
-> If you are using Git bash as your Terminal, the command is `python -i`.
-> This will output the Python console.
+This will output the Python console.
 
 ```
 Python 3.10.5 (tags/v3.10.5:f377153, Jun  6 2022, 16:14:13

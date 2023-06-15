@@ -1,6 +1,6 @@
 ---
 title: How to Install Python
-date: 2023-06-14T03:16:00.842Z
+date: 2023-06-15T16:00:43.784Z
 draft: false
 thumbnail: https://images.unsplash.com/photo-1526379095098-d400fd0bf935?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80
 ---

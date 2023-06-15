@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: I'll teach you Python
-date: 2023-06-15T10:20:39.956Z
+date: 2023-06-15T10:51:43.266Z
 ---
 
 Have you ever thought of becoming a data specialist like a data engineer, data scientist, or even a data analyst?

@@ -42,7 +42,7 @@ added_scores = [ score + 5 for score in scores]
 
 Just a single line of code.
 
-Complex data getting and manipulation can be easily done with Python using libraries such as Beautiful Soup, Pandas, Numpy, and even SciktLearn for machine learning.
+Complex data getting and manipulation can be easily done with Python using libraries such as Beautiful Soup, Pandas, Numpy, and even ScikitLearn for machine learning.
 
 ## Is learning Python worth it?
 

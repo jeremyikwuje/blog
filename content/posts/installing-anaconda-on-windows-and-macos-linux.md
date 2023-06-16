@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Installing Anaconda on Windows and macOS/Linux
-date: 2023-06-16T10:42:07.621Z
+date: 2023-06-16T11:10:02.915Z
 ---
 
 > In this tutorial, you will learn how to install Anaconda on Windows, macOS and Linux and why it is best rather than just installing only Python.  

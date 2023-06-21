@@ -3,8 +3,6 @@ layout: blog
 title: How to add Decap CMS to your Sveltekit Markdown Blog
 date: 2023-06-21T11:10:35.176Z
 ---
-How to add Decap CMS to your Sveltekit Markdown Blog
-
 ### Introduction
 
 In this article, you will learn how to add Decap CMS to your SvelteKit Markdown Blog hosted on Netlify.

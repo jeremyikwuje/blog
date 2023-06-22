@@ -1,6 +1,6 @@
 baseURL: 'https://jeremyikwuje.link/'
 languageCode: 'en-us'
-title: 'Data Engineer'
+title: 'Software Engineer'
 theme: 'ghost'
 copyright: 'Jeremy Ikwuje'
 
@@ -8,7 +8,7 @@ params:
     mainSections: ['posts']
     intro: true
     headline: 'Jeremy Ikwuje'
-    description: 'Data Engineer. I write tutorials for data engineers.'
+    description: 'I write tutorials for engineers.'
     github: 'https://github.com/jeremyikwuje'
     twitter: 'https://twitter.com/jeremyikwuje'
     email: 'hi@jeremyikwuje.link'

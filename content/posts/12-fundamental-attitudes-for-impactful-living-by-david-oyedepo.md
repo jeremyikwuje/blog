@@ -3,6 +3,7 @@ layout: blog
 title: 12 Fundamental Attitudes for Impactful Living by David Oyedepo
 date: 2023-07-16T20:15:40.193Z
 ---
+
 I recently read the book, _Maximize Destiny_ by David Oyedepo. In the first chapter, he wrote down 12 fundamental attitudes that guarantee impactful living.
 
 According to David Oyedepo, who you are largely determines what you become. It is your attitude that defines your altitude. The strength of your character determines the greatness of your destiny, and your way of life right now is vital in determining your future.

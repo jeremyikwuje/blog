@@ -39,7 +39,7 @@ And Philippians 1:21 he said:
 
 ## 2. Be Strong
 
-To be strong, is to be brave and courageous (Jos 1:4-6). It is only the brave that dares, and only the daring accomplishes new marks. It takes courage to conquer. It is courage that breeds conquest.
+To be strong is to be brave and courageous (Jos 1:4-6). It is only the brave that dares, and only the daring accomplishes new marks. It takes courage to conquer. It is courage that breeds conquest.
 
 Until you are stretched, the star in you can not manifest, and it requires strength to do exploits. Men and women of exploits are usually known to be dogged and enduring.
 

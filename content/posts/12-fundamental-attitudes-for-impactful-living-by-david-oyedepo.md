@@ -3,6 +3,7 @@ layout: blog
 title: 12 Fundamental Attitudes for Impactful Living by David Oyedepo
 date: 2023-07-16T20:15:40.193Z
 ---
+![David Oyedepo sitting in a private jet](https://jeremyikwuje.link/uploads/449183_425265_bishop_doing_gods_work_jpg7c28f2dc77cb46308999c3b400db134a_jpg91bc239f13eb57ca48783e1fe42e024d.jpeg)
 
 I recently read the book, _Maximize Destiny_ by David Oyedepo. In the first chapter, he wrote down 12 fundamental attitudes that guarantee impactful living.
 

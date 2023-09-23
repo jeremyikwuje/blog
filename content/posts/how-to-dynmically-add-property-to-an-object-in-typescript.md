@@ -1,18 +1,17 @@
 ---
 layout: blog
-title: How to dynmically add property to an object in TypeScript
+title: How to dynamically add property to an object in TypeScript
 date: 2023-09-23T20:48:57.803Z
 ---
-# How to dynmically add property to an object in TypeScript
-In a previous post, I mention there are three methods to add a property to an object in TypeScript:
+TypeScript allows you to add properties to an object in three ways:
 
-1.  **Create an interface with optional properties** 
-2.  **Using an index signature**
-3.  **Using the  `Record`  utility type**
+1.  **Using an interface with optional properties:** Define an interface with the properties that the object must have, and mark the optional properties with a `?`.
+2.  **Using an index signature:** Define the type of properties that the object can have, even if you don't know the names of the properties in advance.
+3.  **Using the `Record` utility type:** Create an object with any property of any type.
 
-The good thing is, we can dynamically add a property to an object using either methods. This can be useful when we are getting the property names from a database or external API.
+All three methods allow you to dynamically add properties to an object, which can be useful when you are getting the property names from a database or external API.
 
-### 1. Create an interface and optionally add the properties to an object
+### 1. Using an interface with optional properties to dynamically add properties to an object
 **TypeScript [interfaces](https://www.typescriptlang.org/docs/handbook/interfaces.html) allow us to define the shape of an object.** We can specify the properties that the object must have, and their types.
 
 **Dynamically adding properties to an object:**
@@ -53,8 +52,8 @@ console.log(car)
 
 The benefit of dynamically adding properties using an interface with optional property is it allows us to add properties to an object at runtime, without having to modify the interface.
 
-### 2. Use the Record Utility type to dynamically add any property of any type to an object
-The Record Utility type in TypeScript allows you to create an object with any property of any type. This is useful for creating dynamic objects, such as objects that are returned from an API or created from a database.
+### 2. Using the `Record` utility type to dynamically add any property of any type to an object
+The [Record Utility](https://www.typescriptlang.org/docs/handbook/utility-types.html) type in TypeScript allows you to create an object with any property of any type. This is useful for creating dynamic objects, such as objects that are returned from an API or created from a database.
 
 **Example:**
 ```
@@ -92,7 +91,7 @@ console.log(obj) // { brand: 'Toyota', wheels: 3 }
 
 The `brand` property is a string, but the `wheels` property is a number.
 
-## 3. Use an index signature to dynamically add properties to an object
+## 3. Using an index signature to dynamically add properties to an object
 **TypeScript [index signature](https://dmitripavlutin.com/typescript-index-signatures/)  allow you to create dynamic objects.** This means that you can add new properties to the object at runtime, even if you didn't define them when you created the object.
 
 **Example:**
@@ -119,3 +118,5 @@ console.log(obj) // { brand: 'Toyota', wheels: 3 }
 ```
 
 Index signatures can be useful in a variety of situations. You could also use them to create objects to represent database records, API responses, or user configuration data.
+
+God bless!

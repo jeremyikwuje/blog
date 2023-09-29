@@ -9,10 +9,14 @@ _"And the Lord was with him; he was successful in whatever he undertook..." - II
 
 I recently studied King Hezekiah of the bible. Hezekiah was 25 years old when he began to rule over Judah, and he reigned 29 years in Jerusalem. During his reign, he rebelled against the king of Assyria, a powerful king at the time. Also, he defeated nations such as the Philistines. The bible mentioned that he did what pleases God and there was no king in Judah like him either before him or after him.
 
+  
+
 Here are lessons from the life of Hezekiah that you can implement in your own life.
 
+  
+
 1.  He put God first and first - II Kings 18:5.
-2.  He worked in the house of God with his heart - II Chronicle 31:20
+2.  He worked in the house of God with all his heart - II Chronicle 31:20
 3.  He saved food and money - II Chronical 31:11.
 4.  He trusted God and seek (not rely on) the help of others who are capable.
 5.  He hire the best and friends of the best.
@@ -22,5 +26,7 @@ Here are lessons from the life of Hezekiah that you can implement in your own li
 9.  He was a man of prayer 2 Kings 19:1-4, 2 Kings 20:1-2, II Chronical 30:18-20.
 10.  He humble himself.
 11.  He offered offerings to God - II Chronical 31:2-4.
+
+  
 
 I'm sure if you follow the lifestyle of this man, you too will become successful in everything you set your hand to do.

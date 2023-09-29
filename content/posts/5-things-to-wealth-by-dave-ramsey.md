@@ -14,7 +14,7 @@ You must have a budget before the months begins.
 
 And you must write it down, not on your phone or head but write it down on paper. This is a serious problem with people who are broke. Either they don't have a budget or they do, but it is written in their head or phone.
 
-So, very important have a budget.
+So, very important, have a budget.
 
 ### 2. Get out of debt
 

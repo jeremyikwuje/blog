@@ -3,6 +3,8 @@ layout: blog
 title: How to dynamically add property to an object in TypeScript
 date: 2023-09-23T20:48:57.803Z
 ---
+![How to dynamically add property to an object in TS](https://jeremyikwuje.link/uploads/how-to-dynamically-add-property-to-an-object-in-typescript.png)
+
 TypeScript allows you to add properties to an object in three ways:
 
 1.  **Using an interface with optional properties:** Define an interface with the properties that the object must have, and mark the optional properties with a `?`.

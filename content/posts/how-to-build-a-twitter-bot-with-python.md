@@ -8,9 +8,9 @@ date: 2023-10-25T04:29:59.254Z
 I recently built a Twitter bot ([@monierate](https://x.com/monierate)) that tweets the price of USDT in African currencies. The bot gets its data from the [Monierate.com](https://monierate.com) API. In this article, I share how you can create your own Twitter bot using Python and the Twitter API.
 
 ## Python?
-> Python is a popular programming language that can be used to create automated programs, such as Twitter bots.
+Python is a popular programming language that can be used to create automated programs, such as Twitter bots.
 
-> In our bot script, we will use a Python library called [Tweepy](https://www.tweepy.org/), which makes it easy to build a Twitter bot with just a few lines of code.
+In our bot script, we will use a Python library called [Tweepy](https://www.tweepy.org/), which makes it easy to build a Twitter bot with just a few lines of code.
 
 ## Setting up the Twitter API
 

@@ -22,7 +22,7 @@ However, Prisma still uses transactions, which requires us to set up a replica. 
 ## Solution
 The current solution is to run a replica set locally on your computer. This article will show you how to run a replica set locally for development purposes. Doing this will significantly speed up your development.
 
-## How to run a MongoDB Replica Locally [Windows]
+## How to run a MongoDB Replica Locally
 I will be using a Windows machine in this tutorial, but any operating system can be used.
 
 

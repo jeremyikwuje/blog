@@ -3,6 +3,8 @@ layout: blog
 title: How to run a MongoDB Replica Set locally for Prisma
 date: 2023-11-04T09:33:43.881Z
 ---
+![How to run a MongoDB Replica Set locally for Prisma](http://jeremyikwuje.link/uploads/how-to-run-a-mongodb-replica-set-locally-for-prisma.png)
+
 ## Problem
 
 MongoDB is a non-SQL database that only allows you to start transactions on a replica.

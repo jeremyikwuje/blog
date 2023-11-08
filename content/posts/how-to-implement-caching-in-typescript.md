@@ -3,7 +3,7 @@ layout: blog
 title: How to Implement Caching in TypeScript
 date: 2023-11-08T16:34:01.577Z
 ---
-
+![How to Implement Caching in TypeScript](https://jeremyikwuje.link/uploads/how-implement-caching-in-typescript-nodejs.png)
 
 You can implement caching in your Nodejs application using any of the three TypeScript modules:
 

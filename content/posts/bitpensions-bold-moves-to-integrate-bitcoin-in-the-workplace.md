@@ -1,9 +1,10 @@
 ---
 layout: blog
 title: BitPension's Bold Moves to Integrate Bitcoin in the Workplace
-date: 2023-11-25T14:57:15.274Z
+date: 2023-11-25T21:00:18.509Z
 ---
 Yo! from the BitPension team. I'm thrilled to announce how we are bringing Bitcoin to the workplace and empowering employees.
+
 ![BitPension Team with Empire Events CEO](https://jeremyikwuje.link/uploads/img_4425.jpg)
 *BitPension Team with Empire Events CEO*
 

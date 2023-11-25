@@ -5,6 +5,8 @@ date: 2023-11-25T14:57:15.274Z
 ---
 Yo! from the BitPension team. I'm thrilled to announce how we are bringing Bitcoin to the workplace and empowering employees.
 
+![BitPension Team with Proton Lab CEO](https://jeremyikwuje.link/uploads/img_4425.jpg)
+
 At BitPension, our product mission is Better Asset. To achieve better asset for all, we use Bitcoin: decentralized, global, and public digital infrastructure for wealth accumulation. While Bitcoin and BitPension are open to everyone, to better serve our product mission to Africans, we know that we need to focus our service in the private sector, making Bitcoin and BitPension enabled for employees in private companies.
 
 Since BitPension joined the African Bitcoin Hackathon, a key priority of the product focus has been to disrupt the pension industry and enable Bitcoin in the private sector. We know that the pension industry is the oldest industry in Africa lacking any form of innovation. Trillions of dollars are still managed in debased currencies using papers, pens, and spreadsheets. We have envisioned a financial future that’s fairer and freer for employees.

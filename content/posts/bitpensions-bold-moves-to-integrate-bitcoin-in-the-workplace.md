@@ -3,10 +3,10 @@ layout: blog
 title: BitPension's Bold Moves to Integrate Bitcoin in the Workplace
 date: 2023-11-25T21:00:18.509Z
 ---
-Yo! from the BitPension team. I'm thrilled to announce how we are bringing Bitcoin to the workplace and empowering employees.
-
 ![BitPension Team with Empire Events CEO](https://jeremyikwuje.link/uploads/img_4425.jpg)
 *BitPension Team with Empire Events CEO*
+
+Yo! from the BitPension team. I'm thrilled to announce how we are bringing Bitcoin to the workplace and empowering employees.
 
 At BitPension, our product mission is Better Asset. To achieve better asset for all, we use Bitcoin: decentralized, global, and public digital infrastructure for wealth accumulation. While Bitcoin and BitPension are open to everyone, to better serve our product mission to Africans, we know that we need to focus our service in the private sector, making Bitcoin and BitPension enabled for employees in private companies.
 

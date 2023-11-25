@@ -26,4 +26,4 @@ Today, we are announcing:
 
 - As part of our service, we are offering Fedimint federation setups for companies, groups, and unions looking to self-manage and custody of their Bitcoin in a community context.
 
-We're enthusiastic about our progress so far, and we can't wait to see the impact of BitPension in African.
+We're enthusiastic about our progress so far, and we can't wait to see the impact of BitPension in Africa.

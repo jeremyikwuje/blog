@@ -11,7 +11,7 @@ Since our participation in the African Bitcoin Hackathon, our primary focus has 
 
 Today, we are pleased to announce the following developments:
 
-1. **We have initiated visits to companies in Nigeria, enabling their employees to invest in Bitcoin for retirement, potential layoffs, and career changes. So far, we have engaged with 81 companies, with 27 of them pre-signing up over 200 employees on our commitment waitlist.**
+1. **We have initiated visits to companies in Nigeria, enabling their employees to invest in Bitcoin for retirement, potential layoffs, and career changes. So far, we have engaged with 81 companies, with 27 of them pre-signing up over 200 employees on our [commitment waitlist](https://tally.so/r/mY4MR5).**
 
 2. In addition to long-term investment opportunities, employees will have the option to secure a loan using their Bitcoin assets as collateral. This provides them with the flexibility to access liquidity during emergencies or when embarking on their own business.
 

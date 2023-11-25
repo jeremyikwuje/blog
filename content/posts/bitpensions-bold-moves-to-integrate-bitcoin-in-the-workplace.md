@@ -5,7 +5,7 @@ date: 2023-11-25T14:57:15.274Z
 ---
 Greetings from the BitPension team! I'm excited to share the news about our initiative to integrate Bitcoin into the workplace, empowering employees in the process.
 
-At BitPension, our goal is Better Assets, and we've chosen Bitcoin as our means to achieve this. Bitcoin, with its decentralized, global, and public digital infrastructure, serves as an ideal platform for wealth accumulation. While our services are open to everyone, we recognize the importance of concentrating our efforts in the private sector to fulfill our mission for Africans.
+At BitPension, our goal is Better Asset, and we've chosen Bitcoin as our means to achieve this. Bitcoin, with its decentralized, global, and public digital infrastructure, serves as an ideal platform for wealth accumulation. While our services are open to everyone, we recognize the importance of concentrating our efforts in the private sector to fulfill our mission for Africans.
 
 Since our participation in the African Bitcoin Hackathon, our primary focus has been disrupting the pension industry and facilitating Bitcoin adoption in the private sector. The pension industry in Africa, being one of the oldest yet lacking innovation, manages trillions of dollars using outdated methods such as papers, pens, and spreadsheets. Our vision is to create a financial future that is more equitable and liberating for employees.
 

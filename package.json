@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-tw": "npx tailwindcss -i assets/main.css -o assets/base.css",
+    "watch-tw": "npx tailwindcss -i assets/main.css -o assets/base.css -w --minify"
   },
   "repository": {
     "type": "git",
@@ -17,8 +19,10 @@
     "url": "https://github.com/jeremyikwuje/blog/issues"
   },
   "homepage": "https://github.com/jeremyikwuje/blog#readme",
-  "dependencies": {
-    "@tinacms/cli": "^1.5.17",
-    "tinacms": "^1.5.8"
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "flowbite-typography": "^1.0.3",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.4.0"
   }
 }

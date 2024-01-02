@@ -1,0 +1,151 @@
+body {
+  font-family: 'Roboto Mono', sans-serif;
+  font-weight: 400;
+  background-color: #f8f8f2;
+}
+
+a {
+  color: #4409EF;
+}
+
+content {
+  line-height: 1.6;
+}
+
+content h1 {
+  @apply font-bold text-4xl;
+}
+
+content p {
+  margin-top: 1.25em;
+  margin-bottom: 1.25em;
+  font-size: 100%;
+  font-weight: 400;
+}
+
+content ul li, content ol li {
+  margin-bottom: 15px;
+}
+
+content img {
+  max-width: 100%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+content table {
+  width: 100%;
+}
+
+content table,
+content th,
+content td {
+  border: 1px solid;
+  border-collapse: collapse;
+  border-color: #c9d1d9;
+  padding: 5px;
+}
+
+content code {
+  padding: 2px 5px;
+  color: #f8f8f2;
+  background-color: #282a36;
+}
+
+content pre code {
+  display: block;
+  padding: 20px;
+  white-space: pre-wrap;
+  font-size: 14px;
+  overflow-x: auto;
+}
+
+content blockquote {
+  border-left: 1px solid #999;
+  color: #ccc;
+  padding-left: 20px;
+  font-style: italic;
+}
+
+footer {
+  padding: 25px;
+  text-align: center;
+}
+
+/** Home blog list */
+ul.blog-posts li {
+  position: relative;
+  padding-left: 1.375rem;
+}
+ul.blog-posts li::before {
+  position: absolute;
+  left: 0;
+  content: "»";
+} 
+
+.helptext {
+  color: #aaa;
+  font-size: small;
+}
+
+.errorlist {
+  color: #eba613;
+  font-size: small;
+}
+
+/* "Skip to main content" link */
+.skip-link {
+  position: absolute;
+  top: 5;
+  transform: translateY(-600%);
+  transition: transform 0.5s;
+  background-color: #1d1f27;
+  padding: 6px;
+}
+
+.skip-link:focus {
+  transform: translateY(0%);
+}
+
+figure {
+  margin-inline-start: 0em;
+  margin-inline-end: 0em;
+}
+
+figcaption > p {
+  margin-block-start: 0px;
+  text-align: center;
+  font-style: italic;
+  color: #ccc;
+}
+
+.title {
+  text-decoration: none;
+  border: 0;
+}
+.title h1 {
+  font-size: 24px;
+  margin: 19.92px 0 19.92px 0;
+}
+
+.title span {
+  font-weight: 400;
+}
+
+nav a {
+  margin-right: 10px;
+}
+
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: white;
+  }
+  p {
+    color: #d1d1d1;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #d1d1d1;
+  }
+}

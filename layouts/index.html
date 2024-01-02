@@ -1,0 +1,44 @@
+{{ define "main" }}
+<main>
+  <div class="mb-8">
+    <h1 class="font-bold text-left text-4xl md:text-5xl text-black tracking-tighter py-6 overflow-hidden dark:text-white">Bitcoin stuffs.</h1>
+    <span class="bg-gradient-to-br text-gray-700 dark:text-gray-100 bg-clip-text text-transparent">
+      I'm Jeremy. I help people learn about Bitcoin. Every tuesday I publish one content about Bitcoin on this blog.
+    </span>
+  </div>
+
+  <h4 class="text-lg font-bold mb-8 dark:text-white">Recent blog posts:</h4>
+  <ul class="blog-posts">
+    {{ $pag := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+    {{ range $pag.Pages }}
+    <li class="mb-6">
+      <div class="blog-post block md:flex md:justify-between">
+        {{ if .Params.link }}
+            <a href="{{ .Params.link }}" class="text-[inherit]" target="_blank">{{ .Title }} ↪</a>
+        {{ else }}
+            <a href="{{ .Permalink }}" class="text-[inherit]">{{ .Title }}</a>
+        {{ end }}
+        <span>
+            <i>
+            <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+                {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
+            </time>
+            </i>
+        </span>
+      </div>
+    </li>
+    {{ else }}
+    <li>
+      {{ i18n "no-posts" }}
+    </li>
+    {{ end }}
+  </ul>
+  {{ if not .Data.Singular }}
+    <div>
+      {{ range .Site.Taxonomies.tags }}
+        <a class="blog-tags" href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;&nbsp;
+      {{ end }}
+    </div>
+  {{ end }}
+</main>
+{{ end }}

@@ -1,39 +1,35 @@
 baseURL: 'https://jeremyikwuje.link/'
-languageCode: 'en-us'
-title: 'Software Engineer'
-theme: 'ghost'
-copyright: 'Jeremy Ikwuje'
-
-params:
-    mainSections: ['posts']
-    intro: true
-    headline: 'Jeremy Ikwuje'
-    description: 'I write tutorials for engineers.'
-    github: 'https://github.com/jeremyikwuje'
-    twitter: 'https://twitter.com/jeremyikwuje'
-    email: 'hi@jeremyikwuje.link'
-    opengraph: true
-    shareTwitter: true
-    dataFormat: "Mon, Jan 2, 2006"
-    lastChange: '2023'
-
-Permalinks:
-    posts: '/:filename/'
-
-markup:
-    highlight:
-        codeFences: true
-        guessSyntax: false
-        h1_Lines: ""
-        lineNoStart: 1
-        lineNos: false
-        lineNumbersInTable: true
-        noClasses: true
-        tabWidth: 2
-
+theme: hugo-bearcub
+copyright: Jeremy Ikwuje
+defaultContentLanguage: en
+enableRobotsTXT: true
 author:
-    name: 'Jeremy Ikwuje'
-    profile: 'Data Engineer. I write tutorials for data engineers.'
-
-taxonomies:
-    tag: 'python'
+  name: Jeremy Ikwuje
+sectionPagesMenu: main
+permalinks:
+  blog: /:slug/  
+markup:
+  highlight:
+    lineNos: false
+    lineNumbersInTable: false
+    noClasses: false
+languages:
+  en:
+    title: Jeremy Ikwuje
+    languageName: "en-US \U0001F1FA\U0001F1F8"
+    LanguageCode: en-US
+    contentDir: content
+    params:
+      madeWith: 'Made with [Bear Cub](https://github.com/clente/hugo-bearcub)'
+params:
+  description: I write about Bitcoin every week
+  favicon: favicon.ico
+  images:
+    - images/share.webp
+  title: Bear Cub
+  dateFormat: 'Jan 2, 2006'
+  hideUntranslated: true
+  generateSocialCard: false
+social:
+  email: ikwuje24@gmail.com
+  twitter: jeremyikwuje

@@ -22,6 +22,6 @@ Result:
 ```
 00000000000000000002a7c4c1e48d76c5a37902165a270156b7a8d72728a054
 ```
-You can use this block hash to get the block data.
 
+You can use this block hash to [get the block data](https://jeremyikwuje.link/how-to-get-block-data-bitcoin-node-query/).
 

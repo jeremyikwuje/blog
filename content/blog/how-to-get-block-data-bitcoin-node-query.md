@@ -64,7 +64,7 @@ Result:
 
 ```
 
-We didn't specify the second argument, so it takes the default 1, which returns the block data in JSON. The `transaction` property only shows the transaction IDs of the transaction outputs in the block which may be enough information for your needs.
+We didn't specify the second argument, so it takes the default 1, which returns the block data in JSON. The `tx` property only shows the transaction IDs of the transaction outputs in the block which may be enough information for your needs.
 
 Try specifying the second argument, either 2 or, 3 to get more extended block data including inputs and outputs transactions.
 

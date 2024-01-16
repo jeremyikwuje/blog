@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: How to get current block height - Bitcoin Node Query
+title: How to get the current block height - Bitcoin Node Query
 description: Say you want to know the most recent fully validated block in the
   Bitcoin network, you run the `getblockcount` command. The `getblockcount`
   query returns the height of the most-work fully-validated chain.

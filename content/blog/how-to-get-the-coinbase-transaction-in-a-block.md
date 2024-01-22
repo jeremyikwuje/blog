@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: How to get the coinbase transaction in a block
+title: How to get the coinbase transaction in a block - Bitcoin Node Query
 description: Say you want to get the coinbase transaction of block 84,000, you
   first use the `getblockhash` command to get the block hash. The coinbase
   transaction is a special type of transaction that is included in each block as

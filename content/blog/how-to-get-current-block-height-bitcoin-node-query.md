@@ -5,7 +5,7 @@ description: Say you want to know the most recent fully validated block in the
   Bitcoin network, you run the `getblockcount` command. The `getblockcount`
   query returns the height of the most-work fully-validated chain.
 image: https://jeremyikwuje.link/uploads/master-bitcoin-node-query.png
-date: 2024-01-16T06:58:46.267Z
+date: 2024-01-17T06:58:46.267Z
 ---
 ![Bitcoin getblockcount](https://jeremyikwuje.link/uploads/getblockcount.png)
 

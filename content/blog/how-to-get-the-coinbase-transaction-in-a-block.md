@@ -6,7 +6,7 @@ description: Say you want to get the coinbase transaction of block 84,000, you
   transaction is a special type of transaction that is included in each block as
   the first transaction.
 image: https://jeremyikwuje.link/uploads/coinbase-transaction.png
-date: 2024-01-17T15:33:22.096Z
+date: 2024-01-18T15:33:22.096Z
 ---
 ![Command to get coinbase transaction from a block data using jq](https://jeremyikwuje.link/uploads/coinbase-transaction.png)
 

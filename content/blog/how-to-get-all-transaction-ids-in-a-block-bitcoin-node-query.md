@@ -6,7 +6,7 @@ description: "A block is a collection of transactions grouped together and added
   ids in block 84,000, you first use the `getblockhash` command to get the block
   hash. "
 image: https://jeremyikwuje.link/uploads/get-all-transactions.png
-date: 2024-01-22T04:22:10.387Z
+date: 2024-01-19T04:22:10.387Z
 ---
 ![Command to get all transaction from a block data using jq](https://jeremyikwuje.link/uploads/get-all-transactions.png)
 

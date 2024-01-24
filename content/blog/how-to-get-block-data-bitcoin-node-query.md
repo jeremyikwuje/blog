@@ -5,7 +5,7 @@ description: Say you want to get the data contained in a block. To get this data
   by querying the Bitcoin Node, you will use the `getblock` query.  `getblock`
   takes one or two arguments.
 image: https://jeremyikwuje.link/uploads/master-bitcoin-node-query.png
-date: 2024-01-15T11:13:31.457Z
+date: 2024-01-16T11:13:31.457Z
 ---
 ![How to get block data](https://jeremyikwuje.link/uploads/getblock.png) A block is a collection of data that represents a set of transactions that have been verified and confirmed by the Bitcoin network.
 

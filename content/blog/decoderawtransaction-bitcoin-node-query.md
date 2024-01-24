@@ -5,7 +5,7 @@ description: "The `decoderawtransaction` RPC command provides a way to decode
   and interpret the raw, hex-encoded transaction data returned by
   `getrawtransaction`. "
 image: https://jeremyikwuje.link/uploads/decoderawtransaction.png
-date: 2024-01-24T09:09:49.047Z
+date: 2024-01-23T09:09:49.047Z
 ---
 ![decoderawtransaction Bitcoin RPC](https://jeremyikwuje.link/uploads/decoderawtransaction.png)
 Say you have the serialized, hex-encoded string representing a transaction and want to return the transaction data in a JSON object.

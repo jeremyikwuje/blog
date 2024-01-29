@@ -29,7 +29,7 @@ params:
   title: Bear Cub
   dateFormat: 'Jan 2, 2006'
   hideUntranslated: true
-  generateSocialCard: false
+  generateSocialCard: true
 social:
   email: ikwuje24@gmail.com
   twitter: jeremyikwuje

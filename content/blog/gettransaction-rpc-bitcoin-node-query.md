@@ -5,7 +5,7 @@ description: The RPC `gettransaction` retrieves detailed information about an
   in-wallet transaction. "in-wallet transactions" are those transactions that
   are tracked and managed by a Bitcoin wallet.
 image: https://jeremyikwuje.link/uploads/gettransaction.png
-date: 2024-01-29T05:46:28.734Z
+date: 2024-01-24T06:13:17.348Z
 ---
 ![gettransaction - Bitcoin RPC](https://jeremyikwuje.link/uploads/gettransaction.png)
 
